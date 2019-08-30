@@ -171,6 +171,7 @@ int CMainStageHandler::ClientLoginNotify(int socket_handler_id, bufferevent *soc
 ### 相关资源
 
 - [java 版序列化工具](https://github.com/wanghuan578/libtba-java)(libtba-java)。
+- [框架相关应用](https://github.com/wanghuan578/essential-sdk/tree/master/cc)(essential-sdk-cc)。
 
 
 
